@@ -1,4 +1,5 @@
 
+
 berat_badan = float(input("Masukkan berat badan (kg): "))
 tinggi_badan = float(input("Masukkan tinggi badan (m): "))
 
@@ -16,3 +17,4 @@ elif 25 <= bmi < 29.9:
     
 else:
     print("Kategori: Obesitas")
+
