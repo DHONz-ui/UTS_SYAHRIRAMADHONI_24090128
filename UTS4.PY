@@ -17,4 +17,3 @@ elif 25 <= bmi < 29.9:
     
 else:
     print("Kategori: Obesitas")
-

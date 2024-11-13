@@ -1,4 +1,5 @@
 
+
 jumlah_barang = int(input("Masukkan jumlah barang: "))
 
 total_harga = 0
@@ -9,4 +10,3 @@ for i in range(jumlah_barang):
     
 
 print(f"Total harga belanjaan: {total_harga}")
-
